@@ -67,7 +67,7 @@ function faturamentoDias() {
         }
     }
 
-    return  contador ,": número de dias no mês em que o valor  de faturamento diário foi superior à média mensal" ;
+    return  contador;
      
 }
 export{criarMes,
